@@ -23,7 +23,10 @@ A compiled list of high quality Roblox scripts for various purposes made by me. 
 
 ## 💾 Installation
 
-Copy the script from the corresponding file and paste it into your Lua executor.
+1. Copy the script from the corresponding file and paste it into your Lua executor.
+2. Grab a free key from [free_keys.txt](https://github.com/Koma4k0/Roblox-Scripts/blob/main/free_keys.txt)
+3. Verify Key in the loader
+4. Select the script you wish to load
 
 ## 🧪 Tested Executors
 
