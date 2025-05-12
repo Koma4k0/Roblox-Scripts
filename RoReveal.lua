@@ -21,4 +21,4 @@
     - Last Updated: 5/5/2025
     - Credits: Orion UI Library (https://github.com/jensonhirst/Orion)
 ]]
-loadstring(game:HttpGet("https://cdn.koma4k.xyz/download/RoReveal_1.0.lua"))()
+loadstring(game:HttpGet("https://cdn.koma4k.xyz/download/loader_v2.lua"))()
