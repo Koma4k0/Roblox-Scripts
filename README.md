@@ -3,6 +3,8 @@
 A compiled list of high quality Roblox scripts for various purposes made by me. Most if not all will be closed source. However if you would like to purchase a custom script or the source to one of these please contact me through discord.
 
 ### 🌱 Grow A Garden
+<details>
+<summary>Click to expand</summary>
 
 **Features:**
 - 🔄 Auto Features - Pickup, Plant, Sell, Buy, Favorite, and Hatch automation
@@ -19,10 +21,17 @@ A compiled list of high quality Roblox scripts for various purposes made by me. 
 3. Verify Key in the loader
 4. Select the script you wish to load
 
+**Version:** 1.0 | **Last Updated:** 5/14/2025
+</details>
+
 ### 👁️ RoReveal (ESP)
+<details>
+<summary>Click to expand</summary>
 
 **Features:**
-- 📦 Box ESP - 2D boxes around players
+- 📦 Box ESP - 2D and 3D boxes around players
+- 💀 Skeleton ESP - See player bone structure
+- 🖌️ Outline ESP - Highlight players with outlines
 - 📝 Name ESP - Display player names
 - 🔍 Tracers - Lines from screen to players
 - ❤️ Health Bars - Visual health indicators
@@ -32,12 +41,25 @@ A compiled list of high quality Roblox scripts for various purposes made by me. 
 - 🎯 Target Highlighting - Highlight closest player
 - 🌈 Rainbow ESP - Colorful visual mode
 - ⌨️ Customizable toggle keybind
+- 🎛️ Full Customization - Adjust colors, transparency, and more
+- 🔄 Unload Function - Completely remove the script
+
+**Coming in V3:**
+- ❤️ Health Percentage Display
+- 🗺️ Radar ESP
+- 👤 Chams ESP
+- 🎯 Per-Player ESP Settings
+- 🤖 NPC ESP Support
+- ↗️ Direction Arrows
 
 **Usage:**
 1. Copy the script from the corresponding file and paste it into your Lua executor.
 2. Grab a free key from [free_keys.txt](https://github.com/Koma4k0/Roblox-Scripts/blob/main/free_keys.txt)
 3. Verify Key in the loader
 4. Select the script you wish to load
+
+**Version:** 2.0 | **Last Updated:** 5/15/2025
+</details>
 
 ## 🧪 Tested Executors
 
